@@ -1,0 +1,6 @@
+ConfigSystemID,SystemType,System,SystemCode,Server,Database,Host,URL,StorageAccount,Container,Directory,UserName,FileShare,KeyVaultSecret1,KeyVaultSecret2
+1,API_GraphQL,xledger,xlg,,,,https://www.xledger.net/graphql,,,,,,xledgerAPIToken,
+2,Datalake,landing,,,,,,sanestdpprduksdbwh,dla-land,,,/Volumes/nest_ndp_dev/sources/landing,,
+3,ADLS_Excel,sage_archive,sag,,,,,sanestdpprduksdbwh,sage-archive,,,,,
+5,ADLS_Excel,infosec,ifs,,,,,sanestdpprduksdbwh,infosec-source,,,,,
+6,ADLS_Excel,facility,fcs,,,,,sanestdpprduksdbwh,facilities-source,,,,,

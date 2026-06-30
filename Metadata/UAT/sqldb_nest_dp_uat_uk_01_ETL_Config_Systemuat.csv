@@ -1,0 +1,5 @@
+1,API_GraphQL,xledger,xlg,,,,https://demo.xledger.net/graphql,,,,,,xledgerAPIToken,
+2,Datalake,landing,,,,,,sanestdpuatuksdbwh,dla-land,,,/Volumes/nest_ndp_dev/sources/landing,,
+3,ADLS_Excel,sage_archive,sag,,,,,sanestdpuatuksdbwh,sage-archive,,,,,
+5,ADLS_Excel,infosec,ifs,,,,,sanestdpuatuksdbwh,infosec-source,,,,,
+8,ADLS_Excel,facility,fcs,,,,,sanestdpuatuksdbwh,facilities-source,,,,,
